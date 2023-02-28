@@ -1,0 +1,35 @@
+.form{
+    display: flex;
+    /* flex-direction: row; */
+    margin-top: 10px;
+}
+.form-control label{
+    font-size: 20px;
+
+}
+.form-control input{
+    width: 200px;
+    margin-right: 20px;
+    height: 40px;
+    background-color: aliceblue;
+    border: none;
+    color: black;
+    font-size: large;
+}
+.addBtn{
+    margin-top : 20px;
+    width : 432px;
+    background-color: green;
+    padding: 15px;
+    border: none;
+    
+}
+.heading{
+    border-bottom: 3px solid #ffffff;
+    /* position: absolute; */
+    /* top: 50%; */
+    /* bottom: 0; */
+}
+.s{
+    background-color: red;
+}

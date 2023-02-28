@@ -1,0 +1,42 @@
+
+.green{
+    list-style: none;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 40px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 6px;
+    border-right: 10px solid rgb(55, 192, 34);
+}
+.red{
+    list-style: none;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 40px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 6px;
+    border-right: 10px solid rgb(202, 37, 8);
+}
+.btn{
+    position: absolute;
+    left : 720px;
+    padding: 2px 7px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 100px;
+    font-size: 15px;
+    margin: 10px;
+}   
+.btn:hover{
+    background-color: red;
+    color: white;
+    border: none;
+}
