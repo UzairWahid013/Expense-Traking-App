@@ -4,7 +4,6 @@ import IncomeExpense from './component/IncomeExpense'
 import History from './component/History'
 import AddTransaction from './component/AddTransaction'
 import GlobalProvider from './context/GlobalState'
-import Graph from './component/graph'
 import pic1 from './download.png'
 function App() {
   
