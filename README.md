@@ -8,8 +8,5 @@ Surge :
        create dist and inside dist folder run command surge
        
 Graph :
-       npm i react-donut-chart                                                                                                                                                                                                                                                                                                                                                              
 
-      
- 
-  
+       npm i react-donut-chart 
