@@ -24,7 +24,7 @@ const AddTransaction = () => {
   }
   return (
     <div>
-      <h2 style={{ marginBottom: 0, marginTop: 40}} > <span className="heading">Add New Transaction</span></h2>
+      <h2 style={{ marginBottom: 0, marginTop: 0}} > <span className="heading">Add New Transaction</span></h2>
      
       <form  onSubmit={onSubmit}>
         <div className="form">
